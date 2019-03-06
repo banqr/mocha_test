@@ -16,6 +16,7 @@
     "chai": "^4.2.0",
     "chromedriver": "^2.46.0",
     "git": "^0.1.5",
+    "mime": "^2.4.0",
     "mocha": "^6.0.2",
     "selenium": "^2.20.0",
     "selenium-webdriver": "^4.0.0-alpha.1",
